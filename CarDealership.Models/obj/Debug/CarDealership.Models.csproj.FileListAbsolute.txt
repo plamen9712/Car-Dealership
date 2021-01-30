@@ -1,0 +1,21 @@
+D:\CAR DEALER\CarDealershipWPF\CarDealership.Models\bin\Debug\CarDealership.Models.dll
+D:\CAR DEALER\CarDealershipWPF\CarDealership.Models\bin\Debug\CarDealership.Models.pdb
+D:\CAR DEALER\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.csprojResolveAssemblyReference.cache
+D:\CAR DEALER\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.dll
+D:\CAR DEALER\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.pdb
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.Models\bin\Debug\CarDealership.Models.dll
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.Models\bin\Debug\CarDealership.Models.pdb
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.dll
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.pdb
+D:\CarDealerProject\CarDealershipWPF\CarDealership.Models\bin\Debug\CarDealership.Models.dll
+D:\CarDealerProject\CarDealershipWPF\CarDealership.Models\bin\Debug\CarDealership.Models.pdb
+D:\CarDealerProject\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.csprojResolveAssemblyReference.cache
+D:\CarDealerProject\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.dll
+D:\CarDealerProject\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.pdb
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.Models\bin\Debug\CarDealership.Models.dll
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.Models\bin\Debug\CarDealership.Models.pdb
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.csprojAssemblyReference.cache
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.csproj.CoreCompileInputs.cache
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.dll
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.Models\obj\Debug\CarDealership.Models.pdb

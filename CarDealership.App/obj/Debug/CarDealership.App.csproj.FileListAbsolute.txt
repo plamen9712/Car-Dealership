@@ -1,0 +1,132 @@
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\bin\Debug\CarDealership.App.exe.config
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\bin\Debug\CarDealership.App.exe
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\bin\Debug\CarDealership.App.pdb
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\CarDealership.App.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\MainWindow.g.cs
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\App.g.cs
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\CarDealership.App_MarkupCompile.cache
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\CarDealership.App_MarkupCompile.lref
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\MainWindow.baml
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\CarDealership.App.g.resources
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\CarDealership.App.Properties.Resources.resources
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\CarDealership.App.csproj.GenerateResource.Cache
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\CarDealership.App.exe
+C:\Users\dimit\Desktop\CarDealership\CarDealership.App\obj\Debug\CarDealership.App.pdb
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.exe.config
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.exe
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.pdb
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.exe.config
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.exe
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.pdb
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.exe
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.pdb
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csprojResolveAssemblyReference.cache
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\MainWindow.g.cs
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\RegisterWindow.g.cs
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\App.g.cs
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App_MarkupCompile.cache
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App_MarkupCompile.lref
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\MainWindow.baml
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\RegisterWindow.baml
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.g.resources
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.Properties.Resources.resources
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csproj.GenerateResource.Cache
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.exe
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.pdb
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Data.dll
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Models.dll
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.dll
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Data.pdb
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Models.pdb
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.xml
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csprojResolveAssemblyReference.cache
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\MainMenu.g.cs
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\MainWindow.g.cs
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\RegisterWindow.g.cs
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\App.g.cs
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App_MarkupCompile.cache
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App_MarkupCompile.lref
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\MainMenu.baml
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\MainWindow.baml
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\RegisterWindow.baml
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.g.resources
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.Properties.Resources.resources
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csproj.GenerateResource.Cache
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Data.dll
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Models.dll
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.dll
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Data.pdb
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Models.pdb
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.xml
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\MainMenu.g.cs
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\MainMenu.baml
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\CarFullInfo.g.cs
+C:\Users\dimit\Desktop\CarDealership\CarDealershipWPF\CarDealership.App\obj\Debug\CarFullInfo.baml
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarFullInfo.g.cs
+D:\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarFullInfo.baml
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.exe.config
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.exe
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.pdb
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Data.dll
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Models.dll
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.dll
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Data.pdb
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Data.dll.config
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Models.pdb
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.xml
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csprojAssemblyReference.cache
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarFullInfo.g.cs
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\MainMenu.g.cs
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\MainWindow.g.cs
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\RegisterWindow.g.cs
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\App.g.cs
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App_MarkupCompile.cache
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App_MarkupCompile.lref
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarFullInfo.baml
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\MainMenu.baml
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\MainWindow.baml
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\RegisterWindow.baml
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.g.resources
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.Properties.Resources.resources
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csproj.GenerateResource.cache
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csproj.CoreCompileInputs.cache
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csproj.CopyComplete
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.exe
+D:\Downloads\Uroci\Uroci\CarDealerProject\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.pdb
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.exe.config
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.exe
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.App.pdb
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Data.dll
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Models.dll
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.dll
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Data.pdb
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Data.dll.config
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\CarDealership.Models.pdb
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.xml
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csprojAssemblyReference.cache
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarFullInfo.g.cs
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\MainMenu.g.cs
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\MainWindow.g.cs
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\RegisterWindow.g.cs
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\App.g.cs
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App_MarkupCompile.cache
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App_MarkupCompile.lref
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarFullInfo.baml
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\MainMenu.baml
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\MainWindow.baml
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\RegisterWindow.baml
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.g.resources
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.Properties.Resources.resources
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csproj.GenerateResource.cache
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.csproj.CopyComplete
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.exe
+C:\Users\Plamen\Desktop\New folder\CarDealershipWPF\CarDealership.App\obj\Debug\CarDealership.App.pdb
